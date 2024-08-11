@@ -1,6 +1,6 @@
 # Site-1
 Learning git &amp; github
 ## Liste des notices
-+ George Washington `#RRGGBB`
++ `#RRGGBB` George Washington 
 + John Adams `#RRGGBB`
 + Thomas Jefferson `#RRGGBB`
