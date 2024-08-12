@@ -5,4 +5,4 @@ Learning git &amp; github
 + `#0969DA texte coloré en vert`
 + John Adams `#RRGGBB`
 + Thomas Jefferson `#RRGGBB`
-+teste de pull request
++ teste de pull request
