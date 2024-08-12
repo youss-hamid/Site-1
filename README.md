@@ -6,3 +6,4 @@ Learning git &amp; github
 + John Adams `#RRGGBB`
 + Thomas Jefferson `#RRGGBB`
 + teste de pull request
+* wa3
